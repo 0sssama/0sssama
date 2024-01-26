@@ -1,16 +1,12 @@
-### Hi there 👋
+<!-- INSPIRED FROM https://github.com/calcom/cal.com/ -->
+<p align="center">
+  <a href="https://labrahmi.me/">
+   <img src="https://github.com/0sssama/portfolio/assets/41383181/ba15b880-a0cc-4b7b-9e72-22909545d91a" alt="Logo">
+  </a>
 
-<!--
-**0sssama/0sssama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3 align="center">Oussama Labrahmi</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    Turning ideas into seamless and <strong>blazing-fast</strong> products.
+  </p>
+</p>
