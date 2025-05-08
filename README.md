@@ -9,4 +9,10 @@
   <p align="center">
     Turning ideas into seamless and <strong>blazing-fast</strong> products.
   </p>
+  <p align="center">
+    📩: <a href="mailto:oussama@labrahmi.me">oussama@labrahmi.me</a>
+  </p>
+  <p align="center">
+    🌐: <a href="https://labrahmi.me">www.labrahmi.me</a>
+  </p>
 </p>
